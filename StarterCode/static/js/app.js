@@ -163,6 +163,7 @@ function optionChanged(value) {
     demographic(value);
     barchart(value);
     bubblechart(value);
+    gaugechart(value);
     
 };
 
